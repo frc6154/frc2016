@@ -1,0 +1,6 @@
+[My Computer]
+My Computer = "192.168.1.30"
+
+[Target]
+Target = "roboRIO-6154-FRC.local"
+
